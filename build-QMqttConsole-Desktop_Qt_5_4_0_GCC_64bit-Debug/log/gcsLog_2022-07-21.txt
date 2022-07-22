@@ -1,0 +1,381 @@
+[2022-07-21 09:45:26] (Debug:widget.cpp:67) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 14:21:04] (Debug:widget.cpp:67) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 14:21:29] (Debug:widget.cpp:185) [ "14_21_29_206" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"},{"cameraIp":"192.168.1.242","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"wd19216811"}]"
+[2022-07-21 14:21:29] (Debug:widget.cpp:360) cameraChannel :  "35"
+[2022-07-21 14:21:29] (Debug:widget.cpp:360) cameraChannel :  "1"
+[2022-07-21 14:21:29] (Debug:widget.cpp:197) [ "14_21_29_206" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 14:21:29] (Debug:widget.cpp:207) [ "14_21_29_206" ]  pictrue begin
+[2022-07-21 14:21:29] (Debug:widget.cpp:211) [ "14_21_29_206" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-21 14:21:29] (Debug:widget.cpp:393) [ "14_21_29_206" ]  NET_DVR_Init
+[2022-07-21 14:21:29] (Debug:widget.cpp:407) [ "14_21_29_614" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 14:21:32] (Debug:widget.cpp:427) PICCode: 29
+[2022-07-21 14:21:32] (Debug:widget.cpp:215) Piture fail:
+[2022-07-21 14:21:32] (Debug:widget.cpp:165) Payload Sizeof: 114
+[2022-07-21 14:21:32] (Debug:widget.cpp:169) [ "14_21_32_322" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 14:21:32] (Debug:widget.cpp:197) [ "14_21_32_322" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-21 14:21:32] (Debug:widget.cpp:207) [ "14_21_32_322" ]  pictrue begin
+[2022-07-21 14:21:32] (Debug:widget.cpp:211) [ "14_21_32_322" ]  Carmera Info Login "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-21 14:21:32] (Debug:widget.cpp:393) [ "14_21_32_322" ]  NET_DVR_Init
+[2022-07-21 14:21:32] (Debug:widget.cpp:407) [ "14_21_32_401" ]  NET_DVR_Login end: UserID: 1
+[2022-07-21 14:21:32] (Debug:widget.cpp:259) [ "14_21_32_841" ]  pictrue End:
+[2022-07-21 14:21:32] (Debug:widget.cpp:263) PitureBase64 Size(byte): 107884
+[2022-07-21 14:21:32] (Debug:widget.cpp:271) [ "14_21_32_888" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 14:21:32] (Debug:widget.cpp:165) Payload Sizeof: 107995
+[2022-07-21 14:21:32] (Debug:widget.cpp:169) [ "14_21_32_890" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 14:21:32] (Debug:widget.cpp:274) [ "14_21_32_888" ]: Del PicTure Success
+[2022-07-21 14:30:24] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 14:41:33] (Debug:widget.cpp:189) [ "14_41_33_774" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","channel":"1","userName": "admin","password": "csg123456"}]"
+[2022-07-21 14:41:33] (Debug:widget.cpp:201) [ "14_41_33_774" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: ""   Channel: 253
+[2022-07-21 14:41:33] (Debug:widget.cpp:211) [ "14_41_33_774" ]  pictrue begin
+[2022-07-21 14:41:33] (Debug:widget.cpp:215) [ "14_41_33_774" ]  Carmera Info Login "192.168.1.94"   Port: 8000   Channel: 253
+[2022-07-21 14:41:33] (Debug:widget.cpp:397) [ "14_41_33_774" ]  NET_DVR_Init
+[2022-07-21 14:41:34] (Debug:widget.cpp:411) [ "14_41_34_031" ]  NET_DVR_Login end: UserID: -1
+[2022-07-21 14:41:34] (Debug:widget.cpp:417) Code: 0
+[2022-07-21 14:41:34] (Debug:widget.cpp:219) Piture fail:
+[2022-07-21 14:41:34] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 14:41:34] (Debug:widget.cpp:173) [ "14_41_34_321" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 14:42:45] (Debug:widget.cpp:189) [ "14_42_45_518" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","channel":"1","userName":"admin","password":"csg123456"}]"
+[2022-07-21 14:42:45] (Debug:widget.cpp:201) [ "14_42_45_518" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: ""   Channel: 253
+[2022-07-21 14:42:45] (Debug:widget.cpp:211) [ "14_42_45_518" ]  pictrue begin
+[2022-07-21 14:42:45] (Debug:widget.cpp:215) [ "14_42_45_518" ]  Carmera Info Login "192.168.1.94"   Port: 8000   Channel: 253
+[2022-07-21 14:42:45] (Debug:widget.cpp:397) [ "14_42_45_518" ]  NET_DVR_Init
+[2022-07-21 14:42:45] (Debug:widget.cpp:411) [ "14_42_45_828" ]  NET_DVR_Login end: UserID: -1
+[2022-07-21 14:42:46] (Debug:widget.cpp:417) Code: 0
+[2022-07-21 14:42:46] (Debug:widget.cpp:219) Piture fail:
+[2022-07-21 14:42:46] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 14:42:46] (Debug:widget.cpp:173) [ "14_42_46_039" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 14:43:49] (Debug:widget.cpp:189) [ "14_43_49_742" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 14:43:49] (Debug:widget.cpp:364) cameraChannel :  "1"
+[2022-07-21 14:43:49] (Debug:widget.cpp:201) [ "14_43_49_742" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 14:43:49] (Debug:widget.cpp:211) [ "14_43_49_742" ]  pictrue begin
+[2022-07-21 14:43:49] (Debug:widget.cpp:215) [ "14_43_49_742" ]  Carmera Info Login "192.168.1.94"   Port: 8000   Channel: 1
+[2022-07-21 14:43:49] (Debug:widget.cpp:397) [ "14_43_49_742" ]  NET_DVR_Init
+[2022-07-21 14:43:49] (Debug:widget.cpp:411) [ "14_43_49_985" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 14:43:50] (Debug:widget.cpp:263) [ "14_43_50_775" ]  pictrue End:
+[2022-07-21 14:43:50] (Debug:widget.cpp:267) PitureBase64 Size(byte): 93100
+[2022-07-21 14:43:50] (Debug:widget.cpp:275) [ "14_43_50_851" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 14:43:50] (Debug:widget.cpp:169) Payload Sizeof: 93210
+[2022-07-21 14:43:50] (Debug:widget.cpp:173) [ "14_43_50_861" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 14:43:50] (Debug:widget.cpp:278) [ "14_43_50_851" ]: Del PicTure Success
+[2022-07-21 14:45:05] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 14:45:18] (Debug:widget.cpp:189) [ "14_45_18_150" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 14:45:18] (Debug:widget.cpp:364) cameraChannel :  "1"
+[2022-07-21 14:45:18] (Debug:widget.cpp:201) [ "14_45_18_150" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 14:45:18] (Debug:widget.cpp:211) [ "14_45_18_150" ]  pictrue begin
+[2022-07-21 14:45:18] (Debug:widget.cpp:215) [ "14_45_18_150" ]  Carmera Info Login "192.168.1.94"   Port: 8000   Channel: 1
+[2022-07-21 14:45:18] (Debug:widget.cpp:397) [ "14_45_18_151" ]  NET_DVR_Init
+[2022-07-21 14:45:18] (Debug:widget.cpp:411) [ "14_45_18_574" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 14:45:19] (Debug:widget.cpp:263) [ "14_45_19_247" ]  pictrue End:
+[2022-07-21 14:45:19] (Debug:widget.cpp:267) PitureBase64 Size(byte): 93744
+[2022-07-21 14:45:19] (Debug:widget.cpp:275) [ "14_45_19_323" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 14:45:19] (Debug:widget.cpp:169) Payload Sizeof: 93854
+[2022-07-21 14:45:19] (Debug:widget.cpp:173) [ "14_45_19_324" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 14:45:19] (Debug:widget.cpp:278) [ "14_45_19_323" ]: Del PicTure Success
+[2022-07-21 14:45:57] (Debug:widget.cpp:189) [ "14_45_57_966" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 14:45:57] (Debug:widget.cpp:364) cameraChannel :  "1"
+[2022-07-21 14:45:57] (Debug:widget.cpp:201) [ "14_45_57_966" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 14:45:57] (Debug:widget.cpp:211) [ "14_45_57_966" ]  pictrue begin
+[2022-07-21 14:45:57] (Debug:widget.cpp:246) [ "14_45_57_966" ]  Carmera already Login IP: "192.168.1.94"   Port: 8000   Channel: 1
+[2022-07-21 14:45:58] (Debug:widget.cpp:263) [ "14_45_58_577" ]  pictrue End:
+[2022-07-21 14:45:58] (Debug:widget.cpp:267) PitureBase64 Size(byte): 93776
+[2022-07-21 14:45:58] (Debug:widget.cpp:275) [ "14_45_58_651" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 14:45:58] (Debug:widget.cpp:169) Payload Sizeof: 93886
+[2022-07-21 14:45:58] (Debug:widget.cpp:173) [ "14_45_58_652" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 14:45:58] (Debug:widget.cpp:278) [ "14_45_58_651" ]: Del PicTure Success
+[2022-07-21 14:46:40] (Debug:widget.cpp:189) [ "14_46_40_998" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 14:46:40] (Debug:widget.cpp:364) cameraChannel :  "35"
+[2022-07-21 14:46:40] (Debug:widget.cpp:201) [ "14_46_40_998" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 14:46:40] (Debug:widget.cpp:211) [ "14_46_40_999" ]  pictrue begin
+[2022-07-21 14:46:40] (Debug:widget.cpp:215) [ "14_46_40_999" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-21 14:46:40] (Debug:widget.cpp:397) [ "14_46_40_999" ]  NET_DVR_Init
+[2022-07-21 14:46:41] (Debug:widget.cpp:411) [ "14_46_41_054" ]  NET_DVR_Login end: UserID: 1
+[2022-07-21 14:46:43] (Debug:widget.cpp:431) PICCode: 29
+[2022-07-21 14:46:43] (Debug:widget.cpp:219) Piture fail:
+[2022-07-21 14:46:43] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 14:46:43] (Debug:widget.cpp:173) [ "14_46_43_462" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:02:20] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:02:39] (Debug:widget.cpp:189) [ "16_02_39_513" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:02:39] (Debug:widget.cpp:364) cameraChannel :  "35"
+[2022-07-21 16:02:39] (Debug:widget.cpp:201) [ "16_02_39_513" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:02:39] (Debug:widget.cpp:211) [ "16_02_39_513" ]  pictrue begin
+[2022-07-21 16:02:39] (Debug:widget.cpp:215) [ "16_02_39_513" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-21 16:02:39] (Debug:widget.cpp:397) [ "16_02_39_513" ]  NET_DVR_Init
+[2022-07-21 16:02:39] (Debug:widget.cpp:411) [ "16_02_39_805" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 16:02:39] (Debug:widget.cpp:431) PICCode: 4
+[2022-07-21 16:02:39] (Debug:widget.cpp:219) Piture fail:
+[2022-07-21 16:02:39] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 16:02:39] (Debug:widget.cpp:173) [ "16_02_39_819" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:05:37] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:05:41] (Debug:widget.cpp:189) [ "16_05_41_937" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:05:41] (Debug:widget.cpp:364) cameraChannel :  "35"
+[2022-07-21 16:05:41] (Debug:widget.cpp:201) [ "16_05_41_938" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:05:41] (Debug:widget.cpp:211) [ "16_05_41_938" ]  pictrue begin
+[2022-07-21 16:05:41] (Debug:widget.cpp:215) [ "16_05_41_938" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-21 16:05:41] (Debug:widget.cpp:397) [ "16_05_41_938" ]  NET_DVR_Init
+[2022-07-21 16:05:42] (Debug:widget.cpp:411) [ "16_05_42_201" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 16:05:44] (Debug:widget.cpp:433) PICCode: 29
+[2022-07-21 16:05:44] (Debug:widget.cpp:219) Piture fail:
+[2022-07-21 16:05:44] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 16:05:44] (Debug:widget.cpp:173) [ "16_05_44_703" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:06:04] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:06:07] (Debug:widget.cpp:189) [ "16_06_07_601" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:06:07] (Debug:widget.cpp:364) cameraChannel :  "35"
+[2022-07-21 16:06:07] (Debug:widget.cpp:201) [ "16_06_07_602" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:06:07] (Debug:widget.cpp:211) [ "16_06_07_602" ]  pictrue begin
+[2022-07-21 16:06:07] (Debug:widget.cpp:215) [ "16_06_07_602" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-21 16:06:07] (Debug:widget.cpp:397) [ "16_06_07_602" ]  NET_DVR_Init
+[2022-07-21 16:06:07] (Debug:widget.cpp:411) [ "16_06_07_899" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 16:06:07] (Debug:widget.cpp:433) PICCode: 4
+[2022-07-21 16:06:07] (Debug:widget.cpp:219) Piture fail:
+[2022-07-21 16:06:07] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 16:06:07] (Debug:widget.cpp:173) [ "16_06_07_907" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:06:30] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:06:34] (Debug:widget.cpp:189) [ "16_06_34_156" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:06:34] (Debug:widget.cpp:364) cameraChannel :  "35"
+[2022-07-21 16:06:34] (Debug:widget.cpp:201) [ "16_06_34_158" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:06:34] (Debug:widget.cpp:211) [ "16_06_34_158" ]  pictrue begin
+[2022-07-21 16:06:34] (Debug:widget.cpp:215) [ "16_06_34_158" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-21 16:06:34] (Debug:widget.cpp:397) [ "16_06_34_158" ]  NET_DVR_Init
+[2022-07-21 16:06:34] (Debug:widget.cpp:411) [ "16_06_34_352" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 16:06:34] (Debug:widget.cpp:433) PICCode: 4
+[2022-07-21 16:06:34] (Debug:widget.cpp:219) Piture fail:
+[2022-07-21 16:06:34] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 16:06:34] (Debug:widget.cpp:173) [ "16_06_34_360" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:06:55] (Debug:widget.cpp:189) [ "16_06_55_970" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:06:55] (Debug:widget.cpp:364) cameraChannel :  "1"
+[2022-07-21 16:06:55] (Debug:widget.cpp:201) [ "16_06_55_970" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 16:06:55] (Debug:widget.cpp:211) [ "16_06_55_970" ]  pictrue begin
+[2022-07-21 16:06:55] (Debug:widget.cpp:215) [ "16_06_55_970" ]  Carmera Info Login "192.168.1.94"   Port: 8000   Channel: 1
+[2022-07-21 16:06:55] (Debug:widget.cpp:397) [ "16_06_55_970" ]  NET_DVR_Init
+[2022-07-21 16:06:56] (Debug:widget.cpp:411) [ "16_06_56_059" ]  NET_DVR_Login end: UserID: 1
+[2022-07-21 16:06:56] (Debug:widget.cpp:263) [ "16_06_56_729" ]  pictrue End:
+[2022-07-21 16:06:56] (Debug:widget.cpp:267) PitureBase64 Size(byte): 93688
+[2022-07-21 16:06:56] (Debug:widget.cpp:275) [ "16_06_56_813" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:06:56] (Debug:widget.cpp:169) Payload Sizeof: 93798
+[2022-07-21 16:06:56] (Debug:widget.cpp:173) [ "16_06_56_815" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:06:56] (Debug:widget.cpp:278) [ "16_06_56_813" ]: Del PicTure Success
+[2022-07-21 16:08:37] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:09:03] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:09:10] (Debug:widget.cpp:189) [ "16_09_10_321" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:09:10] (Debug:widget.cpp:364) cameraChannel :  "1"
+[2022-07-21 16:09:10] (Debug:widget.cpp:201) [ "16_09_10_322" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 16:09:10] (Debug:widget.cpp:211) [ "16_09_10_322" ]  pictrue begin
+[2022-07-21 16:09:10] (Debug:widget.cpp:215) [ "16_09_10_322" ]  Carmera Info Login "192.168.1.94"   Port: 8000   Channel: 1
+[2022-07-21 16:09:10] (Debug:widget.cpp:397) [ "16_09_10_322" ]  NET_DVR_Init
+[2022-07-21 16:09:10] (Debug:widget.cpp:411) [ "16_09_10_529" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 16:09:10] (Debug:widget.cpp:427) byStartChan: 1
+[2022-07-21 16:09:11] (Debug:widget.cpp:263) [ "16_09_11_217" ]  pictrue End:
+[2022-07-21 16:09:11] (Debug:widget.cpp:267) PitureBase64 Size(byte): 93372
+[2022-07-21 16:09:11] (Debug:widget.cpp:275) [ "16_09_11_297" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:09:11] (Debug:widget.cpp:169) Payload Sizeof: 93482
+[2022-07-21 16:09:11] (Debug:widget.cpp:173) [ "16_09_11_299" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:09:11] (Debug:widget.cpp:278) [ "16_09_11_297" ]: Del PicTure Success
+[2022-07-21 16:09:55] (Debug:widget.cpp:189) [ "16_09_55_995" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:09:55] (Debug:widget.cpp:364) cameraChannel :  "35"
+[2022-07-21 16:09:55] (Debug:widget.cpp:201) [ "16_09_55_995" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:09:55] (Debug:widget.cpp:211) [ "16_09_55_995" ]  pictrue begin
+[2022-07-21 16:09:55] (Debug:widget.cpp:246) [ "16_09_55_995" ]  Carmera already Login IP: "192.168.1.94"   Port: 8000   Channel: 35
+[2022-07-21 16:09:56] (Debug:widget.cpp:249) Piture fail:
+[2022-07-21 16:09:56] (Debug:widget.cpp:169) Payload Sizeof: 113
+[2022-07-21 16:09:56] (Debug:widget.cpp:173) [ "16_09_56_010" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:10:39] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:10:42] (Debug:widget.cpp:189) [ "16_10_42_474" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:10:42] (Debug:widget.cpp:364) cameraChannel :  "35"
+[2022-07-21 16:10:42] (Debug:widget.cpp:201) [ "16_10_42_474" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:10:42] (Debug:widget.cpp:211) [ "16_10_42_474" ]  pictrue begin
+[2022-07-21 16:10:42] (Debug:widget.cpp:215) [ "16_10_42_474" ]  Carmera Info Login "192.168.1.94"   Port: 8000   Channel: 35
+[2022-07-21 16:10:42] (Debug:widget.cpp:397) [ "16_10_42_474" ]  NET_DVR_Init
+[2022-07-21 16:10:42] (Debug:widget.cpp:411) [ "16_10_42_815" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 16:10:42] (Debug:widget.cpp:427) byStartChan: 35
+[2022-07-21 16:10:42] (Debug:widget.cpp:434) PICCode: 4
+[2022-07-21 16:10:42] (Debug:widget.cpp:219) Piture fail:
+[2022-07-21 16:10:42] (Debug:widget.cpp:169) Payload Sizeof: 113
+[2022-07-21 16:10:42] (Debug:widget.cpp:173) [ "16_10_42_839" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:19:12] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:19:31] (Debug:widget.cpp:189) [ "16_19_31_493" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:19:31] (Debug:widget.cpp:370) cameraChannel :  "35"
+[2022-07-21 16:19:31] (Debug:widget.cpp:201) [ "16_19_31_493" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:19:31] (Debug:widget.cpp:211) [ "16_19_31_493" ]  pictrue begin
+[2022-07-21 16:19:31] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.135 ,   8000
+[2022-07-21 16:19:31] (Debug:widget.cpp:481) connect() : NET_DVR_Login fail : m_userID < 0 m_isConnect = false error = 3
+[2022-07-21 16:21:50] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:21:54] (Debug:widget.cpp:189) [ "16_21_54_691" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:21:54] (Debug:widget.cpp:370) cameraChannel :  "35"
+[2022-07-21 16:21:54] (Debug:widget.cpp:201) [ "16_21_54_691" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:21:54] (Debug:widget.cpp:211) [ "16_21_54_691" ]  pictrue begin
+[2022-07-21 16:21:54] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.135 ,   8000
+[2022-07-21 16:21:54] (Debug:widget.cpp:268) [ "16_21_54_934" ]  pictrue End:
+[2022-07-21 16:21:54] (Debug:widget.cpp:272) PitureBase64 Size(byte): 0
+[2022-07-21 16:21:54] (Debug:widget.cpp:280) [ "16_21_54_976" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:21:54] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 16:21:54] (Debug:widget.cpp:173) [ "16_21_54_977" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:22:13] (Debug:widget.cpp:189) [ "16_22_13_188" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:22:13] (Debug:widget.cpp:370) cameraChannel :  "35"
+[2022-07-21 16:22:13] (Debug:widget.cpp:201) [ "16_22_13_188" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:22:13] (Debug:widget.cpp:211) [ "16_22_13_188" ]  pictrue begin
+[2022-07-21 16:22:13] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.135 ,   8000
+[2022-07-21 16:22:13] (Debug:widget.cpp:268) [ "16_22_13_249" ]  pictrue End:
+[2022-07-21 16:22:13] (Debug:widget.cpp:272) PitureBase64 Size(byte): 0
+[2022-07-21 16:22:13] (Debug:widget.cpp:280) [ "16_22_13_249" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:22:13] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 16:22:13] (Debug:widget.cpp:173) [ "16_22_13_249" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:25:35] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:25:42] (Debug:widget.cpp:189) [ "16_25_42_908" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:25:42] (Debug:widget.cpp:370) cameraChannel :  "35"
+[2022-07-21 16:25:42] (Debug:widget.cpp:201) [ "16_25_42_908" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:25:42] (Debug:widget.cpp:211) [ "16_25_42_908" ]  pictrue begin
+[2022-07-21 16:25:42] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.135 ,   8000
+[2022-07-21 16:25:43] (Debug:widget.cpp:518) connect() : NET_DVR_SetCapturePictureMode
+[2022-07-21 16:25:43] (Debug:widget.cpp:268) [ "16_25_43_105" ]  pictrue End:
+[2022-07-21 16:25:43] (Debug:widget.cpp:272) PitureBase64 Size(byte): 0
+[2022-07-21 16:25:43] (Debug:widget.cpp:280) [ "16_25_43_123" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:25:43] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 16:25:43] (Debug:widget.cpp:173) [ "16_25_43_123" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:32:54] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:33:01] (Debug:widget.cpp:189) [ "16_33_01_253" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:33:01] (Debug:widget.cpp:370) cameraChannel :  "35"
+[2022-07-21 16:33:01] (Debug:widget.cpp:201) [ "16_33_01_253" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:33:01] (Debug:widget.cpp:211) [ "16_33_01_254" ]  pictrue begin
+[2022-07-21 16:33:01] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.135 ,   8000
+[2022-07-21 16:33:01] (Debug:widget.cpp:521) connect() : NET_DVR_SetCapturePictureMode path: ./Picture/163301.jpg
+[2022-07-21 16:33:01] (Debug:widget.cpp:523) connect() : NET_DVR_CapturePicture fail
+[2022-07-21 16:35:10] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:35:22] (Debug:widget.cpp:189) [ "16_35_22_432" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:35:22] (Debug:widget.cpp:370) cameraChannel :  "1"
+[2022-07-21 16:35:22] (Debug:widget.cpp:201) [ "16_35_22_432" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 16:35:22] (Debug:widget.cpp:211) [ "16_35_22_432" ]  pictrue begin
+[2022-07-21 16:35:22] (Debug:widget.cpp:216) [ "16_35_22_432" ]  Carmera Info Login "192.168.1.94"   Port: 8000   Channel: 1
+[2022-07-21 16:35:22] (Debug:widget.cpp:403) [ "16_35_22_432" ]  NET_DVR_Init
+[2022-07-21 16:35:22] (Debug:widget.cpp:417) [ "16_35_22_812" ]  NET_DVR_Login end: UserID: 0
+[2022-07-21 16:35:23] (Debug:widget.cpp:268) [ "16_35_23_211" ]  pictrue End:
+[2022-07-21 16:35:23] (Debug:widget.cpp:272) PitureBase64 Size(byte): 93000
+[2022-07-21 16:35:23] (Debug:widget.cpp:280) [ "16_35_23_292" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:35:23] (Debug:widget.cpp:169) Payload Sizeof: 93110
+[2022-07-21 16:35:23] (Debug:widget.cpp:173) [ "16_35_23_292" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:37:29] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:37:46] (Debug:widget.cpp:189) [ "16_37_46_205" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:37:46] (Debug:widget.cpp:370) cameraChannel :  "35"
+[2022-07-21 16:37:46] (Debug:widget.cpp:201) [ "16_37_46_206" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:37:46] (Debug:widget.cpp:211) [ "16_37_46_206" ]  pictrue begin
+[2022-07-21 16:37:46] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.135 ,   8000
+[2022-07-21 16:37:46] (Debug:widget.cpp:521) connect() : NET_DVR_SetCapturePictureMode path: ./Picture/163746.jpg
+[2022-07-21 16:37:56] (Debug:widget.cpp:524) connect() : NET_DVR_CapturePicture fail
+[2022-07-21 16:38:58] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:39:02] (Debug:widget.cpp:189) [ "16_39_02_477" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:39:02] (Debug:widget.cpp:370) cameraChannel :  "35"
+[2022-07-21 16:39:02] (Debug:widget.cpp:201) [ "16_39_02_477" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:39:02] (Debug:widget.cpp:211) [ "16_39_02_477" ]  pictrue begin
+[2022-07-21 16:39:02] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.135 ,   8000
+[2022-07-21 16:39:02] (Debug:widget.cpp:521) connect() : NET_DVR_SetCapturePictureMode path: ./Picture/163902.jpg
+[2022-07-21 16:39:12] (Debug:widget.cpp:525) connect() : NET_DVR_CapturePicture fail error 0
+[2022-07-21 16:40:18] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:40:24] (Debug:widget.cpp:189) [ "16_40_24_110" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:40:24] (Debug:widget.cpp:370) cameraChannel :  "35"
+[2022-07-21 16:40:24] (Debug:widget.cpp:201) [ "16_40_24_110" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-21 16:40:24] (Debug:widget.cpp:211) [ "16_40_24_110" ]  pictrue begin
+[2022-07-21 16:40:24] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.135 ,   8000
+[2022-07-21 16:40:24] (Debug:widget.cpp:521) connect() : NET_DVR_SetCapturePictureMode path: ./Picture/164024.jpg
+[2022-07-21 16:40:34] (Debug:widget.cpp:268) [ "16_40_34_339" ]  pictrue End:
+[2022-07-21 16:40:34] (Debug:widget.cpp:272) PitureBase64 Size(byte): 0
+[2022-07-21 16:40:34] (Debug:widget.cpp:280) [ "16_40_34_351" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:40:34] (Debug:widget.cpp:169) Payload Sizeof: 114
+[2022-07-21 16:40:34] (Debug:widget.cpp:173) [ "16_40_34_351" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:42:06] (Debug:widget.cpp:189) [ "16_42_06_119" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:42:06] (Debug:widget.cpp:370) cameraChannel :  "1"
+[2022-07-21 16:42:06] (Debug:widget.cpp:201) [ "16_42_06_119" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 16:42:06] (Debug:widget.cpp:211) [ "16_42_06_119" ]  pictrue begin
+[2022-07-21 16:42:06] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.94 ,   8000
+[2022-07-21 16:42:06] (Debug:widget.cpp:521) connect() : NET_DVR_SetCapturePictureMode path: ./Picture/164206.jpg
+[2022-07-21 16:42:16] (Debug:widget.cpp:268) [ "16_42_16_275" ]  pictrue End:
+[2022-07-21 16:42:16] (Debug:widget.cpp:272) PitureBase64 Size(byte): 0
+[2022-07-21 16:42:16] (Debug:widget.cpp:280) [ "16_42_16_275" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:42:16] (Debug:widget.cpp:169) Payload Sizeof: 112
+[2022-07-21 16:42:16] (Debug:widget.cpp:173) [ "16_42_16_275" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 16:45:41] (Debug:widget.cpp:71) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 16:45:44] (Debug:widget.cpp:189) [ "16_45_44_790" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 16:45:44] (Debug:widget.cpp:370) cameraChannel :  "1"
+[2022-07-21 16:45:44] (Debug:widget.cpp:201) [ "16_45_44_790" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 16:45:44] (Debug:widget.cpp:211) [ "16_45_44_790" ]  pictrue begin
+[2022-07-21 16:45:44] (Debug:widget.cpp:475) admin ,  csg123456 ,  192.168.1.94 ,   8000
+[2022-07-21 16:45:45] (Debug:widget.cpp:502) chan: 1
+[2022-07-21 16:45:45] (Debug:widget.cpp:522) connect() : NET_DVR_SetCapturePictureMode path: ./Picture/164544.jpg
+[2022-07-21 16:45:55] (Debug:widget.cpp:268) [ "16_45_55_153" ]  pictrue End:
+[2022-07-21 16:45:55] (Debug:widget.cpp:272) PitureBase64 Size(byte): 0
+[2022-07-21 16:45:55] (Debug:widget.cpp:280) [ "16_45_55_159" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 16:45:55] (Debug:widget.cpp:169) Payload Sizeof: 112
+[2022-07-21 16:45:55] (Debug:widget.cpp:173) [ "16_45_55_160" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 17:30:42] (Debug:widget.cpp:75) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 19:21:26] (Debug:widget.cpp:73) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 19:21:37] (Debug:widget.cpp:191) [ "19_21_37_586" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 19:21:37] (Debug:widget.cpp:372) cameraChannel :  "1"
+[2022-07-21 19:21:37] (Debug:widget.cpp:203) [ "19_21_37_586" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 19:21:37] (Debug:widget.cpp:213) [ "19_21_37_586" ]  pictrue begin
+[2022-07-21 19:21:37] (Debug:widget.cpp:477) admin ,  csg123456 ,  192.168.1.94 ,   8000
+[2022-07-21 19:21:37] (Debug:widget.cpp:524) connect() : NET_DVR_SetCapturePictureMode path: ./Picture/192137.jpg
+[2022-07-21 19:21:47] (Debug:widget.cpp:270) [ "19_21_47_940" ]  pictrue End:
+[2022-07-21 19:21:47] (Debug:widget.cpp:274) PitureBase64 Size(byte): 0
+[2022-07-21 19:21:47] (Debug:widget.cpp:282) [ "19_21_47_958" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 19:21:47] (Debug:widget.cpp:171) Payload Sizeof: 112
+[2022-07-21 19:21:47] (Debug:widget.cpp:175) [ "19_21_47_962" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+
+[2022-07-21 19:22:18] (Debug:widget.cpp:73) "192.168.1.229"   "1883"    "admin"    "public"    "188"    "120"
+[2022-07-21 19:22:22] (Debug:widget.cpp:191) [ "19_22_22_368" ]  Rec: "[{"cameraIp":"192.168.1.94","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"csg123456"}]"
+[2022-07-21 19:22:22] (Debug:widget.cpp:372) cameraChannel :  "1"
+[2022-07-21 19:22:22] (Debug:widget.cpp:203) [ "19_22_22_368" ]  Mess IP: "192.168.1.94"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 1
+[2022-07-21 19:22:22] (Debug:widget.cpp:213) [ "19_22_22_368" ]  pictrue begin
+[2022-07-21 19:22:22] (Debug:widget.cpp:477) admin ,  csg123456 ,  192.168.1.94 ,   8000
+[2022-07-21 19:22:22] (Debug:widget.cpp:524) connect() : NET_DVR_SetCapturePictureMode path: ./Picture/192222.jpg
+[2022-07-21 19:22:22] (Debug:widget.cpp:270) [ "19_22_22_749" ]  pictrue End:
+[2022-07-21 19:22:22] (Debug:widget.cpp:274) PitureBase64 Size(byte): 0
+[2022-07-21 19:22:22] (Debug:widget.cpp:282) [ "19_22_22_763" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-21 19:22:22] (Debug:widget.cpp:171) Payload Sizeof: 112
+[2022-07-21 19:22:22] (Debug:widget.cpp:175) [ "19_22_22_763" ]: @@@@@@@@@@ Publish success @@@@@@@@@@
+ 
+

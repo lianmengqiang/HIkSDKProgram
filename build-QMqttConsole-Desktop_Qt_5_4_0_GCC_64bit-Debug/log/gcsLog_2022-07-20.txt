@@ -1,0 +1,696 @@
+[2022-07-20 15:21:18] (Debug:widget.cpp:59) "192.168.1.229"   "1883"    "admin"    "public"    "1234"    "120"
+[2022-07-20 15:21:18] (Debug:widget.cpp:177) [ "15_21_18_215" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:18] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:18] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:18] (Debug:widget.cpp:189) [ "15_21_18_215" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:18] (Debug:widget.cpp:199) [ "15_21_18_215" ]  pictrue begin
+[2022-07-20 15:21:18] (Debug:widget.cpp:203) [ "15_21_18_215" ]  Carmera Info Login "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:18] (Debug:widget.cpp:385) [ "15_21_18_215" ]  NET_DVR_Init
+[2022-07-20 15:21:18] (Debug:widget.cpp:399) [ "15_21_18_525" ]  NET_DVR_Login end: UserID: 0
+[2022-07-20 15:21:18] (Debug:widget.cpp:251) [ "15_21_18_848" ]  pictrue End:
+[2022-07-20 15:21:18] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130032
+[2022-07-20 15:21:18] (Debug:widget.cpp:263) [ "15_21_18_928" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:18] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:18] (Debug:widget.cpp:266) [ "15_21_18_928" ]: Del PicTure Success
+[2022-07-20 15:21:18] (Debug:widget.cpp:189) [ "15_21_18_928" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:18] (Debug:widget.cpp:199) [ "15_21_18_928" ]  pictrue begin
+[2022-07-20 15:21:18] (Debug:widget.cpp:203) [ "15_21_18_928" ]  Carmera Info Login "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:18] (Debug:widget.cpp:385) [ "15_21_18_928" ]  NET_DVR_Init
+[2022-07-20 15:21:19] (Debug:widget.cpp:399) [ "15_21_19_031" ]  NET_DVR_Login end: UserID: 1
+[2022-07-20 15:21:19] (Debug:widget.cpp:251) [ "15_21_19_528" ]  pictrue End:
+[2022-07-20 15:21:19] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112860
+[2022-07-20 15:21:19] (Debug:widget.cpp:263) [ "15_21_19_583" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:19] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:19] (Debug:widget.cpp:266) [ "15_21_19_583" ]: Del PicTure Success
+[2022-07-20 15:21:19] (Debug:widget.cpp:177) [ "15_21_19_585" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:19] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:19] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:19] (Debug:widget.cpp:189) [ "15_21_19_585" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:19] (Debug:widget.cpp:199) [ "15_21_19_585" ]  pictrue begin
+[2022-07-20 15:21:19] (Debug:widget.cpp:234) [ "15_21_19_585" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:19] (Debug:widget.cpp:251) [ "15_21_19_979" ]  pictrue End:
+[2022-07-20 15:21:20] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129900
+[2022-07-20 15:21:20] (Debug:widget.cpp:263) [ "15_21_20_046" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:20] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:20] (Debug:widget.cpp:266) [ "15_21_20_046" ]: Del PicTure Success
+[2022-07-20 15:21:20] (Debug:widget.cpp:189) [ "15_21_20_046" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:20] (Debug:widget.cpp:199) [ "15_21_20_046" ]  pictrue begin
+[2022-07-20 15:21:20] (Debug:widget.cpp:234) [ "15_21_20_046" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:20] (Debug:widget.cpp:251) [ "15_21_20_327" ]  pictrue End:
+[2022-07-20 15:21:20] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112892
+[2022-07-20 15:21:20] (Debug:widget.cpp:263) [ "15_21_20_385" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:20] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:20] (Debug:widget.cpp:266) [ "15_21_20_385" ]: Del PicTure Success
+[2022-07-20 15:21:20] (Debug:widget.cpp:177) [ "15_21_20_386" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:20] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:20] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:20] (Debug:widget.cpp:189) [ "15_21_20_386" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:20] (Debug:widget.cpp:199) [ "15_21_20_386" ]  pictrue begin
+[2022-07-20 15:21:20] (Debug:widget.cpp:234) [ "15_21_20_386" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:20] (Debug:widget.cpp:251) [ "15_21_20_783" ]  pictrue End:
+[2022-07-20 15:21:20] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130084
+[2022-07-20 15:21:20] (Debug:widget.cpp:263) [ "15_21_20_846" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:20] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:20] (Debug:widget.cpp:266) [ "15_21_20_846" ]: Del PicTure Success
+[2022-07-20 15:21:20] (Debug:widget.cpp:189) [ "15_21_20_847" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:20] (Debug:widget.cpp:199) [ "15_21_20_847" ]  pictrue begin
+[2022-07-20 15:21:20] (Debug:widget.cpp:234) [ "15_21_20_847" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:21] (Debug:widget.cpp:251) [ "15_21_21_135" ]  pictrue End:
+[2022-07-20 15:21:21] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112872
+[2022-07-20 15:21:21] (Debug:widget.cpp:263) [ "15_21_21_197" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:21] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:21] (Debug:widget.cpp:266) [ "15_21_21_197" ]: Del PicTure Success
+[2022-07-20 15:21:21] (Debug:widget.cpp:177) [ "15_21_21_197" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:21] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:21] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:21] (Debug:widget.cpp:189) [ "15_21_21_198" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:21] (Debug:widget.cpp:199) [ "15_21_21_198" ]  pictrue begin
+[2022-07-20 15:21:21] (Debug:widget.cpp:234) [ "15_21_21_198" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:21] (Debug:widget.cpp:251) [ "15_21_21_512" ]  pictrue End:
+[2022-07-20 15:21:21] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129908
+[2022-07-20 15:21:21] (Debug:widget.cpp:263) [ "15_21_21_558" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:21] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:21] (Debug:widget.cpp:266) [ "15_21_21_558" ]: Del PicTure Success
+[2022-07-20 15:21:21] (Debug:widget.cpp:189) [ "15_21_21_558" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:21] (Debug:widget.cpp:199) [ "15_21_21_558" ]  pictrue begin
+[2022-07-20 15:21:21] (Debug:widget.cpp:234) [ "15_21_21_558" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:21] (Debug:widget.cpp:251) [ "15_21_21_826" ]  pictrue End:
+[2022-07-20 15:21:21] (Debug:widget.cpp:255) PitureBase64 Size(byte): 113156
+[2022-07-20 15:21:21] (Debug:widget.cpp:263) [ "15_21_21_869" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:21] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:21] (Debug:widget.cpp:266) [ "15_21_21_869" ]: Del PicTure Success
+[2022-07-20 15:21:21] (Debug:widget.cpp:177) [ "15_21_21_870" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:21] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:21] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:21] (Debug:widget.cpp:189) [ "15_21_21_870" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:21] (Debug:widget.cpp:199) [ "15_21_21_870" ]  pictrue begin
+[2022-07-20 15:21:21] (Debug:widget.cpp:234) [ "15_21_21_870" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:22] (Debug:widget.cpp:251) [ "15_21_22_139" ]  pictrue End:
+[2022-07-20 15:21:22] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129948
+[2022-07-20 15:21:22] (Debug:widget.cpp:263) [ "15_21_22_185" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:22] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:22] (Debug:widget.cpp:266) [ "15_21_22_185" ]: Del PicTure Success
+[2022-07-20 15:21:22] (Debug:widget.cpp:189) [ "15_21_22_185" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:22] (Debug:widget.cpp:199) [ "15_21_22_185" ]  pictrue begin
+[2022-07-20 15:21:22] (Debug:widget.cpp:234) [ "15_21_22_185" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:22] (Debug:widget.cpp:251) [ "15_21_22_477" ]  pictrue End:
+[2022-07-20 15:21:22] (Debug:widget.cpp:255) PitureBase64 Size(byte): 113100
+[2022-07-20 15:21:22] (Debug:widget.cpp:263) [ "15_21_22_522" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:22] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:22] (Debug:widget.cpp:266) [ "15_21_22_522" ]: Del PicTure Success
+[2022-07-20 15:21:22] (Debug:widget.cpp:177) [ "15_21_22_522" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:22] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:22] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:22] (Debug:widget.cpp:189) [ "15_21_22_522" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:22] (Debug:widget.cpp:199) [ "15_21_22_522" ]  pictrue begin
+[2022-07-20 15:21:22] (Debug:widget.cpp:234) [ "15_21_22_522" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:22] (Debug:widget.cpp:251) [ "15_21_22_819" ]  pictrue End:
+[2022-07-20 15:21:22] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129964
+[2022-07-20 15:21:22] (Debug:widget.cpp:263) [ "15_21_22_876" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:22] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:22] (Debug:widget.cpp:266) [ "15_21_22_876" ]: Del PicTure Success
+[2022-07-20 15:21:22] (Debug:widget.cpp:189) [ "15_21_22_876" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:22] (Debug:widget.cpp:199) [ "15_21_22_876" ]  pictrue begin
+[2022-07-20 15:21:22] (Debug:widget.cpp:234) [ "15_21_22_876" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:23] (Debug:widget.cpp:251) [ "15_21_23_151" ]  pictrue End:
+[2022-07-20 15:21:23] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112792
+[2022-07-20 15:21:23] (Debug:widget.cpp:263) [ "15_21_23_196" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:23] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:23] (Debug:widget.cpp:266) [ "15_21_23_196" ]: Del PicTure Success
+[2022-07-20 15:21:23] (Debug:widget.cpp:177) [ "15_21_23_196" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:23] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:23] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:23] (Debug:widget.cpp:189) [ "15_21_23_196" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:23] (Debug:widget.cpp:199) [ "15_21_23_196" ]  pictrue begin
+[2022-07-20 15:21:23] (Debug:widget.cpp:234) [ "15_21_23_196" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:23] (Debug:widget.cpp:251) [ "15_21_23_499" ]  pictrue End:
+[2022-07-20 15:21:23] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129884
+[2022-07-20 15:21:23] (Debug:widget.cpp:263) [ "15_21_23_554" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:23] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:23] (Debug:widget.cpp:266) [ "15_21_23_554" ]: Del PicTure Success
+[2022-07-20 15:21:23] (Debug:widget.cpp:189) [ "15_21_23_556" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:23] (Debug:widget.cpp:199) [ "15_21_23_556" ]  pictrue begin
+[2022-07-20 15:21:23] (Debug:widget.cpp:234) [ "15_21_23_556" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:23] (Debug:widget.cpp:251) [ "15_21_23_831" ]  pictrue End:
+[2022-07-20 15:21:23] (Debug:widget.cpp:255) PitureBase64 Size(byte): 113144
+[2022-07-20 15:21:23] (Debug:widget.cpp:263) [ "15_21_23_903" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:23] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:23] (Debug:widget.cpp:266) [ "15_21_23_903" ]: Del PicTure Success
+[2022-07-20 15:21:23] (Debug:widget.cpp:177) [ "15_21_23_904" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:23] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:23] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:23] (Debug:widget.cpp:189) [ "15_21_23_904" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:23] (Debug:widget.cpp:199) [ "15_21_23_904" ]  pictrue begin
+[2022-07-20 15:21:23] (Debug:widget.cpp:234) [ "15_21_23_904" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:24] (Debug:widget.cpp:251) [ "15_21_24_184" ]  pictrue End:
+[2022-07-20 15:21:24] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130056
+[2022-07-20 15:21:24] (Debug:widget.cpp:263) [ "15_21_24_234" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:24] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:24] (Debug:widget.cpp:266) [ "15_21_24_234" ]: Del PicTure Success
+[2022-07-20 15:21:24] (Debug:widget.cpp:189) [ "15_21_24_234" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:24] (Debug:widget.cpp:199) [ "15_21_24_234" ]  pictrue begin
+[2022-07-20 15:21:24] (Debug:widget.cpp:234) [ "15_21_24_234" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:24] (Debug:widget.cpp:251) [ "15_21_24_506" ]  pictrue End:
+[2022-07-20 15:21:24] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112648
+[2022-07-20 15:21:24] (Debug:widget.cpp:263) [ "15_21_24_553" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:24] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:24] (Debug:widget.cpp:266) [ "15_21_24_553" ]: Del PicTure Success
+[2022-07-20 15:21:24] (Debug:widget.cpp:177) [ "15_21_24_553" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:24] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:24] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:24] (Debug:widget.cpp:189) [ "15_21_24_553" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:24] (Debug:widget.cpp:199) [ "15_21_24_554" ]  pictrue begin
+[2022-07-20 15:21:24] (Debug:widget.cpp:234) [ "15_21_24_554" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:24] (Debug:widget.cpp:251) [ "15_21_24_821" ]  pictrue End:
+[2022-07-20 15:21:24] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130044
+[2022-07-20 15:21:24] (Debug:widget.cpp:263) [ "15_21_24_903" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:24] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:24] (Debug:widget.cpp:266) [ "15_21_24_903" ]: Del PicTure Success
+[2022-07-20 15:21:24] (Debug:widget.cpp:189) [ "15_21_24_903" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:24] (Debug:widget.cpp:199) [ "15_21_24_903" ]  pictrue begin
+[2022-07-20 15:21:24] (Debug:widget.cpp:234) [ "15_21_24_903" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:25] (Debug:widget.cpp:251) [ "15_21_25_187" ]  pictrue End:
+[2022-07-20 15:21:25] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112872
+[2022-07-20 15:21:25] (Debug:widget.cpp:263) [ "15_21_25_237" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:25] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:25] (Debug:widget.cpp:266) [ "15_21_25_237" ]: Del PicTure Success
+[2022-07-20 15:21:25] (Debug:widget.cpp:177) [ "15_21_25_241" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:25] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:25] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:25] (Debug:widget.cpp:189) [ "15_21_25_241" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:25] (Debug:widget.cpp:199) [ "15_21_25_241" ]  pictrue begin
+[2022-07-20 15:21:25] (Debug:widget.cpp:234) [ "15_21_25_241" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:25] (Debug:widget.cpp:251) [ "15_21_25_540" ]  pictrue End:
+[2022-07-20 15:21:25] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130092
+[2022-07-20 15:21:25] (Debug:widget.cpp:263) [ "15_21_25_585" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:25] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:25] (Debug:widget.cpp:266) [ "15_21_25_585" ]: Del PicTure Success
+[2022-07-20 15:21:25] (Debug:widget.cpp:189) [ "15_21_25_585" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:25] (Debug:widget.cpp:199) [ "15_21_25_585" ]  pictrue begin
+[2022-07-20 15:21:25] (Debug:widget.cpp:234) [ "15_21_25_585" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:25] (Debug:widget.cpp:251) [ "15_21_25_866" ]  pictrue End:
+[2022-07-20 15:21:25] (Debug:widget.cpp:255) PitureBase64 Size(byte): 113000
+[2022-07-20 15:21:25] (Debug:widget.cpp:263) [ "15_21_25_933" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:25] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:25] (Debug:widget.cpp:266) [ "15_21_25_933" ]: Del PicTure Success
+[2022-07-20 15:21:25] (Debug:widget.cpp:177) [ "15_21_25_933" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:25] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:25] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:25] (Debug:widget.cpp:189) [ "15_21_25_933" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:25] (Debug:widget.cpp:199) [ "15_21_25_933" ]  pictrue begin
+[2022-07-20 15:21:25] (Debug:widget.cpp:234) [ "15_21_25_933" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:26] (Debug:widget.cpp:251) [ "15_21_26_219" ]  pictrue End:
+[2022-07-20 15:21:26] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129932
+[2022-07-20 15:21:26] (Debug:widget.cpp:263) [ "15_21_26_268" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:26] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:26] (Debug:widget.cpp:266) [ "15_21_26_268" ]: Del PicTure Success
+[2022-07-20 15:21:26] (Debug:widget.cpp:189) [ "15_21_26_271" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:26] (Debug:widget.cpp:199) [ "15_21_26_271" ]  pictrue begin
+[2022-07-20 15:21:26] (Debug:widget.cpp:234) [ "15_21_26_271" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:26] (Debug:widget.cpp:251) [ "15_21_26_546" ]  pictrue End:
+[2022-07-20 15:21:26] (Debug:widget.cpp:255) PitureBase64 Size(byte): 113004
+[2022-07-20 15:21:26] (Debug:widget.cpp:263) [ "15_21_26_631" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:26] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:26] (Debug:widget.cpp:266) [ "15_21_26_631" ]: Del PicTure Success
+[2022-07-20 15:21:26] (Debug:widget.cpp:177) [ "15_21_26_633" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:26] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:26] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:26] (Debug:widget.cpp:189) [ "15_21_26_633" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:26] (Debug:widget.cpp:199) [ "15_21_26_633" ]  pictrue begin
+[2022-07-20 15:21:26] (Debug:widget.cpp:234) [ "15_21_26_633" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:26] (Debug:widget.cpp:251) [ "15_21_26_936" ]  pictrue End:
+[2022-07-20 15:21:26] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129932
+[2022-07-20 15:21:26] (Debug:widget.cpp:263) [ "15_21_26_997" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:26] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:26] (Debug:widget.cpp:266) [ "15_21_26_997" ]: Del PicTure Success
+[2022-07-20 15:21:26] (Debug:widget.cpp:189) [ "15_21_26_998" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:26] (Debug:widget.cpp:199) [ "15_21_26_998" ]  pictrue begin
+[2022-07-20 15:21:26] (Debug:widget.cpp:234) [ "15_21_26_998" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:27] (Debug:widget.cpp:251) [ "15_21_27_267" ]  pictrue End:
+[2022-07-20 15:21:27] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112880
+[2022-07-20 15:21:27] (Debug:widget.cpp:263) [ "15_21_27_311" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:27] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:27] (Debug:widget.cpp:266) [ "15_21_27_311" ]: Del PicTure Success
+[2022-07-20 15:21:27] (Debug:widget.cpp:177) [ "15_21_27_312" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:27] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:27] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:27] (Debug:widget.cpp:189) [ "15_21_27_312" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:27] (Debug:widget.cpp:199) [ "15_21_27_312" ]  pictrue begin
+[2022-07-20 15:21:27] (Debug:widget.cpp:234) [ "15_21_27_312" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:27] (Debug:widget.cpp:251) [ "15_21_27_739" ]  pictrue End:
+[2022-07-20 15:21:27] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130012
+[2022-07-20 15:21:27] (Debug:widget.cpp:263) [ "15_21_27_793" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:27] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:27] (Debug:widget.cpp:266) [ "15_21_27_793" ]: Del PicTure Success
+[2022-07-20 15:21:27] (Debug:widget.cpp:189) [ "15_21_27_794" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:27] (Debug:widget.cpp:199) [ "15_21_27_794" ]  pictrue begin
+[2022-07-20 15:21:27] (Debug:widget.cpp:234) [ "15_21_27_794" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:28] (Debug:widget.cpp:251) [ "15_21_28_066" ]  pictrue End:
+[2022-07-20 15:21:28] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112976
+[2022-07-20 15:21:28] (Debug:widget.cpp:263) [ "15_21_28_116" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:28] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:28] (Debug:widget.cpp:266) [ "15_21_28_116" ]: Del PicTure Success
+[2022-07-20 15:21:28] (Debug:widget.cpp:177) [ "15_21_28_116" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:28] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:28] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:28] (Debug:widget.cpp:189) [ "15_21_28_116" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:28] (Debug:widget.cpp:199) [ "15_21_28_116" ]  pictrue begin
+[2022-07-20 15:21:28] (Debug:widget.cpp:234) [ "15_21_28_116" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:28] (Debug:widget.cpp:251) [ "15_21_28_421" ]  pictrue End:
+[2022-07-20 15:21:28] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129968
+[2022-07-20 15:21:28] (Debug:widget.cpp:263) [ "15_21_28_472" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:28] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:28] (Debug:widget.cpp:266) [ "15_21_28_472" ]: Del PicTure Success
+[2022-07-20 15:21:28] (Debug:widget.cpp:189) [ "15_21_28_472" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:28] (Debug:widget.cpp:199) [ "15_21_28_472" ]  pictrue begin
+[2022-07-20 15:21:28] (Debug:widget.cpp:234) [ "15_21_28_472" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:28] (Debug:widget.cpp:251) [ "15_21_28_746" ]  pictrue End:
+[2022-07-20 15:21:28] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112668
+[2022-07-20 15:21:28] (Debug:widget.cpp:263) [ "15_21_28_790" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:28] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:28] (Debug:widget.cpp:266) [ "15_21_28_790" ]: Del PicTure Success
+[2022-07-20 15:21:28] (Debug:widget.cpp:177) [ "15_21_28_790" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:28] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:28] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:28] (Debug:widget.cpp:189) [ "15_21_28_792" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:28] (Debug:widget.cpp:199) [ "15_21_28_792" ]  pictrue begin
+[2022-07-20 15:21:28] (Debug:widget.cpp:234) [ "15_21_28_792" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:29] (Debug:widget.cpp:251) [ "15_21_29_095" ]  pictrue End:
+[2022-07-20 15:21:29] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129992
+[2022-07-20 15:21:29] (Debug:widget.cpp:263) [ "15_21_29_154" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:29] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:29] (Debug:widget.cpp:266) [ "15_21_29_154" ]: Del PicTure Success
+[2022-07-20 15:21:29] (Debug:widget.cpp:189) [ "15_21_29_154" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:29] (Debug:widget.cpp:199) [ "15_21_29_155" ]  pictrue begin
+[2022-07-20 15:21:29] (Debug:widget.cpp:234) [ "15_21_29_155" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:29] (Debug:widget.cpp:251) [ "15_21_29_472" ]  pictrue End:
+[2022-07-20 15:21:29] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112940
+[2022-07-20 15:21:29] (Debug:widget.cpp:263) [ "15_21_29_516" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:29] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:29] (Debug:widget.cpp:266) [ "15_21_29_516" ]: Del PicTure Success
+[2022-07-20 15:21:29] (Debug:widget.cpp:177) [ "15_21_29_516" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:29] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:29] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:29] (Debug:widget.cpp:189) [ "15_21_29_517" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:29] (Debug:widget.cpp:199) [ "15_21_29_517" ]  pictrue begin
+[2022-07-20 15:21:29] (Debug:widget.cpp:234) [ "15_21_29_517" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:29] (Debug:widget.cpp:251) [ "15_21_29_820" ]  pictrue End:
+[2022-07-20 15:21:29] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129996
+[2022-07-20 15:21:29] (Debug:widget.cpp:263) [ "15_21_29_875" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:29] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:29] (Debug:widget.cpp:266) [ "15_21_29_875" ]: Del PicTure Success
+[2022-07-20 15:21:29] (Debug:widget.cpp:189) [ "15_21_29_875" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:29] (Debug:widget.cpp:199) [ "15_21_29_875" ]  pictrue begin
+[2022-07-20 15:21:29] (Debug:widget.cpp:234) [ "15_21_29_875" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:30] (Debug:widget.cpp:251) [ "15_21_30_147" ]  pictrue End:
+[2022-07-20 15:21:30] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112788
+[2022-07-20 15:21:30] (Debug:widget.cpp:263) [ "15_21_30_195" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:30] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:30] (Debug:widget.cpp:266) [ "15_21_30_195" ]: Del PicTure Success
+[2022-07-20 15:21:30] (Debug:widget.cpp:177) [ "15_21_30_196" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:30] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:30] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:30] (Debug:widget.cpp:189) [ "15_21_30_196" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:30] (Debug:widget.cpp:199) [ "15_21_30_196" ]  pictrue begin
+[2022-07-20 15:21:30] (Debug:widget.cpp:234) [ "15_21_30_196" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:30] (Debug:widget.cpp:251) [ "15_21_30_500" ]  pictrue End:
+[2022-07-20 15:21:30] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129904
+[2022-07-20 15:21:30] (Debug:widget.cpp:263) [ "15_21_30_554" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:30] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:30] (Debug:widget.cpp:266) [ "15_21_30_554" ]: Del PicTure Success
+[2022-07-20 15:21:30] (Debug:widget.cpp:189) [ "15_21_30_555" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:30] (Debug:widget.cpp:199) [ "15_21_30_555" ]  pictrue begin
+[2022-07-20 15:21:30] (Debug:widget.cpp:234) [ "15_21_30_555" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:31] (Debug:widget.cpp:251) [ "15_21_31_005" ]  pictrue End:
+[2022-07-20 15:21:31] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112964
+[2022-07-20 15:21:31] (Debug:widget.cpp:263) [ "15_21_31_053" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:31] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:31] (Debug:widget.cpp:266) [ "15_21_31_053" ]: Del PicTure Success
+[2022-07-20 15:21:31] (Debug:widget.cpp:177) [ "15_21_31_054" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:31] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:31] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:31] (Debug:widget.cpp:189) [ "15_21_31_054" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:31] (Debug:widget.cpp:199) [ "15_21_31_054" ]  pictrue begin
+[2022-07-20 15:21:31] (Debug:widget.cpp:234) [ "15_21_31_054" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:31] (Debug:widget.cpp:251) [ "15_21_31_343" ]  pictrue End:
+[2022-07-20 15:21:31] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130000
+[2022-07-20 15:21:31] (Debug:widget.cpp:263) [ "15_21_31_394" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:31] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:31] (Debug:widget.cpp:266) [ "15_21_31_394" ]: Del PicTure Success
+[2022-07-20 15:21:31] (Debug:widget.cpp:189) [ "15_21_31_394" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:31] (Debug:widget.cpp:199) [ "15_21_31_394" ]  pictrue begin
+[2022-07-20 15:21:31] (Debug:widget.cpp:234) [ "15_21_31_394" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:31] (Debug:widget.cpp:251) [ "15_21_31_668" ]  pictrue End:
+[2022-07-20 15:21:31] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112660
+[2022-07-20 15:21:31] (Debug:widget.cpp:263) [ "15_21_31_721" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:31] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:31] (Debug:widget.cpp:266) [ "15_21_31_721" ]: Del PicTure Success
+[2022-07-20 15:21:31] (Debug:widget.cpp:177) [ "15_21_31_722" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:31] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:31] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:31] (Debug:widget.cpp:189) [ "15_21_31_722" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:31] (Debug:widget.cpp:199) [ "15_21_31_722" ]  pictrue begin
+[2022-07-20 15:21:31] (Debug:widget.cpp:234) [ "15_21_31_722" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:32] (Debug:widget.cpp:251) [ "15_21_32_021" ]  pictrue End:
+[2022-07-20 15:21:32] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129900
+[2022-07-20 15:21:32] (Debug:widget.cpp:263) [ "15_21_32_061" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:32] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:32] (Debug:widget.cpp:266) [ "15_21_32_061" ]: Del PicTure Success
+[2022-07-20 15:21:32] (Debug:widget.cpp:189) [ "15_21_32_062" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:32] (Debug:widget.cpp:199) [ "15_21_32_062" ]  pictrue begin
+[2022-07-20 15:21:32] (Debug:widget.cpp:234) [ "15_21_32_062" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:32] (Debug:widget.cpp:251) [ "15_21_32_338" ]  pictrue End:
+[2022-07-20 15:21:32] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112844
+[2022-07-20 15:21:32] (Debug:widget.cpp:263) [ "15_21_32_379" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:32] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:32] (Debug:widget.cpp:266) [ "15_21_32_379" ]: Del PicTure Success
+[2022-07-20 15:21:32] (Debug:widget.cpp:177) [ "15_21_32_380" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:32] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:32] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:32] (Debug:widget.cpp:189) [ "15_21_32_380" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:32] (Debug:widget.cpp:199) [ "15_21_32_380" ]  pictrue begin
+[2022-07-20 15:21:32] (Debug:widget.cpp:234) [ "15_21_32_380" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:32] (Debug:widget.cpp:251) [ "15_21_32_694" ]  pictrue End:
+[2022-07-20 15:21:32] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130036
+[2022-07-20 15:21:32] (Debug:widget.cpp:263) [ "15_21_32_748" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:32] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:32] (Debug:widget.cpp:266) [ "15_21_32_748" ]: Del PicTure Success
+[2022-07-20 15:21:32] (Debug:widget.cpp:189) [ "15_21_32_776" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:32] (Debug:widget.cpp:199) [ "15_21_32_776" ]  pictrue begin
+[2022-07-20 15:21:32] (Debug:widget.cpp:234) [ "15_21_32_776" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:33] (Debug:widget.cpp:251) [ "15_21_33_066" ]  pictrue End:
+[2022-07-20 15:21:33] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112992
+[2022-07-20 15:21:33] (Debug:widget.cpp:263) [ "15_21_33_112" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:33] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:33] (Debug:widget.cpp:266) [ "15_21_33_112" ]: Del PicTure Success
+[2022-07-20 15:21:33] (Debug:widget.cpp:177) [ "15_21_33_116" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:33] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:33] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:33] (Debug:widget.cpp:189) [ "15_21_33_116" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:33] (Debug:widget.cpp:199) [ "15_21_33_116" ]  pictrue begin
+[2022-07-20 15:21:33] (Debug:widget.cpp:234) [ "15_21_33_116" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:33] (Debug:widget.cpp:251) [ "15_21_33_409" ]  pictrue End:
+[2022-07-20 15:21:33] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130008
+[2022-07-20 15:21:33] (Debug:widget.cpp:263) [ "15_21_33_454" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:33] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:33] (Debug:widget.cpp:266) [ "15_21_33_454" ]: Del PicTure Success
+[2022-07-20 15:21:33] (Debug:widget.cpp:189) [ "15_21_33_455" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:33] (Debug:widget.cpp:199) [ "15_21_33_455" ]  pictrue begin
+[2022-07-20 15:21:33] (Debug:widget.cpp:234) [ "15_21_33_455" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:33] (Debug:widget.cpp:251) [ "15_21_33_737" ]  pictrue End:
+[2022-07-20 15:21:33] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112836
+[2022-07-20 15:21:33] (Debug:widget.cpp:263) [ "15_21_33_785" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:33] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:33] (Debug:widget.cpp:266) [ "15_21_33_785" ]: Del PicTure Success
+[2022-07-20 15:21:33] (Debug:widget.cpp:177) [ "15_21_33_785" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:33] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:33] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:33] (Debug:widget.cpp:189) [ "15_21_33_785" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:33] (Debug:widget.cpp:199) [ "15_21_33_785" ]  pictrue begin
+[2022-07-20 15:21:33] (Debug:widget.cpp:234) [ "15_21_33_785" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:34] (Debug:widget.cpp:251) [ "15_21_34_090" ]  pictrue End:
+[2022-07-20 15:21:34] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129884
+[2022-07-20 15:21:34] (Debug:widget.cpp:263) [ "15_21_34_146" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:34] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:34] (Debug:widget.cpp:266) [ "15_21_34_146" ]: Del PicTure Success
+[2022-07-20 15:21:34] (Debug:widget.cpp:189) [ "15_21_34_146" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:34] (Debug:widget.cpp:199) [ "15_21_34_146" ]  pictrue begin
+[2022-07-20 15:21:34] (Debug:widget.cpp:234) [ "15_21_34_146" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:34] (Debug:widget.cpp:251) [ "15_21_34_469" ]  pictrue End:
+[2022-07-20 15:21:34] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112780
+[2022-07-20 15:21:34] (Debug:widget.cpp:263) [ "15_21_34_515" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:34] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:34] (Debug:widget.cpp:266) [ "15_21_34_515" ]: Del PicTure Success
+[2022-07-20 15:21:34] (Debug:widget.cpp:177) [ "15_21_34_515" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:34] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:34] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:34] (Debug:widget.cpp:189) [ "15_21_34_515" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:34] (Debug:widget.cpp:199) [ "15_21_34_515" ]  pictrue begin
+[2022-07-20 15:21:34] (Debug:widget.cpp:234) [ "15_21_34_515" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:34] (Debug:widget.cpp:251) [ "15_21_34_809" ]  pictrue End:
+[2022-07-20 15:21:34] (Debug:widget.cpp:255) PitureBase64 Size(byte): 130016
+[2022-07-20 15:21:34] (Debug:widget.cpp:263) [ "15_21_34_867" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:34] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:34] (Debug:widget.cpp:266) [ "15_21_34_867" ]: Del PicTure Success
+[2022-07-20 15:21:34] (Debug:widget.cpp:189) [ "15_21_34_868" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:34] (Debug:widget.cpp:199) [ "15_21_34_868" ]  pictrue begin
+[2022-07-20 15:21:34] (Debug:widget.cpp:234) [ "15_21_34_868" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:35] (Debug:widget.cpp:251) [ "15_21_35_177" ]  pictrue End:
+[2022-07-20 15:21:35] (Debug:widget.cpp:255) PitureBase64 Size(byte): 112728
+[2022-07-20 15:21:35] (Debug:widget.cpp:263) [ "15_21_35_229" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:35] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:35] (Debug:widget.cpp:266) [ "15_21_35_229" ]: Del PicTure Success
+[2022-07-20 15:21:35] (Debug:widget.cpp:177) [ "15_21_35_229" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:35] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:35] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:35] (Debug:widget.cpp:189) [ "15_21_35_230" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:35] (Debug:widget.cpp:199) [ "15_21_35_230" ]  pictrue begin
+[2022-07-20 15:21:35] (Debug:widget.cpp:234) [ "15_21_35_230" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:35] (Debug:widget.cpp:251) [ "15_21_35_490" ]  pictrue End:
+[2022-07-20 15:21:35] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129984
+[2022-07-20 15:21:35] (Debug:widget.cpp:263) [ "15_21_35_537" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:35] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:35] (Debug:widget.cpp:266) [ "15_21_35_537" ]: Del PicTure Success
+[2022-07-20 15:21:35] (Debug:widget.cpp:189) [ "15_21_35_538" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:35] (Debug:widget.cpp:199) [ "15_21_35_538" ]  pictrue begin
+[2022-07-20 15:21:35] (Debug:widget.cpp:234) [ "15_21_35_538" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:35] (Debug:widget.cpp:251) [ "15_21_35_816" ]  pictrue End:
+[2022-07-20 15:21:35] (Debug:widget.cpp:255) PitureBase64 Size(byte): 113044
+[2022-07-20 15:21:35] (Debug:widget.cpp:263) [ "15_21_35_872" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:35] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:35] (Debug:widget.cpp:266) [ "15_21_35_872" ]: Del PicTure Success
+[2022-07-20 15:21:35] (Debug:widget.cpp:177) [ "15_21_35_874" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:35] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:35] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:35] (Debug:widget.cpp:189) [ "15_21_35_874" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:35] (Debug:widget.cpp:199) [ "15_21_35_875" ]  pictrue begin
+[2022-07-20 15:21:35] (Debug:widget.cpp:234) [ "15_21_35_875" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:36] (Debug:widget.cpp:251) [ "15_21_36_161" ]  pictrue End:
+[2022-07-20 15:21:36] (Debug:widget.cpp:255) PitureBase64 Size(byte): 129980
+[2022-07-20 15:21:36] (Debug:widget.cpp:263) [ "15_21_36_212" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:36] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:36] (Debug:widget.cpp:266) [ "15_21_36_212" ]: Del PicTure Success
+[2022-07-20 15:21:36] (Debug:widget.cpp:189) [ "15_21_36_213" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:36] (Debug:widget.cpp:199) [ "15_21_36_213" ]  pictrue begin
+[2022-07-20 15:21:36] (Debug:widget.cpp:234) [ "15_21_36_213" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:21:36] (Debug:widget.cpp:251) [ "15_21_36_497" ]  pictrue End:
+[2022-07-20 15:21:36] (Debug:widget.cpp:255) PitureBase64 Size(byte): 113060
+[2022-07-20 15:21:36] (Debug:widget.cpp:263) [ "15_21_36_553" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:21:36] (Debug:widget.cpp:137) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:21:36] (Debug:widget.cpp:266) [ "15_21_36_553" ]: Del PicTure Success
+[2022-07-20 15:21:36] (Debug:widget.cpp:177) [ "15_21_36_555" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:21:36] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:36] (Debug:widget.cpp:352) cameraChannel :  "1"
+[2022-07-20 15:21:36] (Debug:widget.cpp:189) [ "15_21_36_555" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:21:36] (Debug:widget.cpp:199) [ "15_21_36_555" ]  pictrue begin
+[2022-07-20 15:21:36] (Debug:widget.cpp:234) [ "15_21_36_555" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:21:36] (Debug:widget.cpp:251) [ "15_21_36_849" ]  pictrue End:
+[2022-07-20 15:34:47] (Debug:widget.cpp:60) "192.168.1.229"   "1883"    "admin"    "public"    "1234"    "120"
+[2022-07-20 15:34:47] (Debug:widget.cpp:178) [ "15_34_47_796" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"},{"cameraIp":"192.168.1.242","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"wd19216811"}]"
+[2022-07-20 15:34:47] (Debug:widget.cpp:353) cameraChannel :  "35"
+[2022-07-20 15:34:47] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:47] (Debug:widget.cpp:190) [ "15_34_47_796" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-20 15:34:47] (Debug:widget.cpp:200) [ "15_34_47_797" ]  pictrue begin
+[2022-07-20 15:34:47] (Debug:widget.cpp:204) [ "15_34_47_797" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-20 15:34:47] (Debug:widget.cpp:386) [ "15_34_47_797" ]  NET_DVR_Init
+[2022-07-20 15:34:48] (Debug:widget.cpp:400) [ "15_34_48_041" ]  NET_DVR_Login end: UserID: 0
+[2022-07-20 15:34:50] (Debug:widget.cpp:419) PICCode: 29
+[2022-07-20 15:34:50] (Debug:widget.cpp:208) Piture fail:
+[2022-07-20 15:34:50] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:50] (Debug:widget.cpp:190) [ "15_34_50_467" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:50] (Debug:widget.cpp:200) [ "15_34_50_467" ]  pictrue begin
+[2022-07-20 15:34:50] (Debug:widget.cpp:204) [ "15_34_50_467" ]  Carmera Info Login "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:34:50] (Debug:widget.cpp:386) [ "15_34_50_467" ]  NET_DVR_Init
+[2022-07-20 15:34:50] (Debug:widget.cpp:400) [ "15_34_50_537" ]  NET_DVR_Login end: UserID: 1
+[2022-07-20 15:34:50] (Debug:widget.cpp:252) [ "15_34_50_839" ]  pictrue End:
+[2022-07-20 15:34:50] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111264
+[2022-07-20 15:34:50] (Debug:widget.cpp:264) [ "15_34_50_879" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:50] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:50] (Debug:widget.cpp:267) [ "15_34_50_879" ]: Del PicTure Success
+[2022-07-20 15:34:50] (Debug:widget.cpp:178) [ "15_34_50_880" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"},{"cameraIp":"192.168.1.242","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"wd19216811"}]"
+[2022-07-20 15:34:50] (Debug:widget.cpp:353) cameraChannel :  "35"
+[2022-07-20 15:34:50] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:50] (Debug:widget.cpp:190) [ "15_34_50_881" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-20 15:34:50] (Debug:widget.cpp:200) [ "15_34_50_881" ]  pictrue begin
+[2022-07-20 15:34:50] (Debug:widget.cpp:204) [ "15_34_50_881" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-20 15:34:50] (Debug:widget.cpp:386) [ "15_34_50_881" ]  NET_DVR_Init
+[2022-07-20 15:34:50] (Debug:widget.cpp:400) [ "15_34_50_936" ]  NET_DVR_Login end: UserID: 2
+[2022-07-20 15:34:53] (Debug:widget.cpp:419) PICCode: 29
+[2022-07-20 15:34:53] (Debug:widget.cpp:208) Piture fail:
+[2022-07-20 15:34:53] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:53] (Debug:widget.cpp:190) [ "15_34_53_347" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:53] (Debug:widget.cpp:200) [ "15_34_53_348" ]  pictrue begin
+[2022-07-20 15:34:53] (Debug:widget.cpp:235) [ "15_34_53_348" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:34:53] (Debug:widget.cpp:252) [ "15_34_53_634" ]  pictrue End:
+[2022-07-20 15:34:53] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111304
+[2022-07-20 15:34:53] (Debug:widget.cpp:264) [ "15_34_53_677" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:53] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:53] (Debug:widget.cpp:267) [ "15_34_53_677" ]: Del PicTure Success
+[2022-07-20 15:34:53] (Debug:widget.cpp:178) [ "15_34_53_678" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:34:53] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:53] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:53] (Debug:widget.cpp:190) [ "15_34_53_678" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:53] (Debug:widget.cpp:200) [ "15_34_53_678" ]  pictrue begin
+[2022-07-20 15:34:53] (Debug:widget.cpp:204) [ "15_34_53_678" ]  Carmera Info Login "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:34:53] (Debug:widget.cpp:386) [ "15_34_53_678" ]  NET_DVR_Init
+[2022-07-20 15:34:53] (Debug:widget.cpp:400) [ "15_34_53_748" ]  NET_DVR_Login end: UserID: 3
+[2022-07-20 15:34:54] (Debug:widget.cpp:252) [ "15_34_54_023" ]  pictrue End:
+[2022-07-20 15:34:54] (Debug:widget.cpp:256) PitureBase64 Size(byte): 126988
+[2022-07-20 15:34:54] (Debug:widget.cpp:264) [ "15_34_54_062" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:54] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:54] (Debug:widget.cpp:267) [ "15_34_54_062" ]: Del PicTure Success
+[2022-07-20 15:34:54] (Debug:widget.cpp:190) [ "15_34_54_063" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:54] (Debug:widget.cpp:200) [ "15_34_54_063" ]  pictrue begin
+[2022-07-20 15:34:54] (Debug:widget.cpp:235) [ "15_34_54_063" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:34:54] (Debug:widget.cpp:252) [ "15_34_54_349" ]  pictrue End:
+[2022-07-20 15:34:54] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111280
+[2022-07-20 15:34:54] (Debug:widget.cpp:264) [ "15_34_54_390" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:54] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:54] (Debug:widget.cpp:267) [ "15_34_54_390" ]: Del PicTure Success
+[2022-07-20 15:34:54] (Debug:widget.cpp:178) [ "15_34_54_390" ]  Rec: "[{"cameraIp":"192.168.1.135","cameraPort":"8000","cameraChannel":"35","userName":"admin","passWord":"csg123456"},{"cameraIp":"192.168.1.242","cameraPort":"8000","cameraChannel":"1","userName":"admin","passWord":"wd19216811"}]"
+[2022-07-20 15:34:54] (Debug:widget.cpp:353) cameraChannel :  "35"
+[2022-07-20 15:34:54] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:54] (Debug:widget.cpp:190) [ "15_34_54_391" ]  Mess IP: "192.168.1.135"   Port: 8000   Name: "admin"   PWD: "csg123456"   Channel: 35
+[2022-07-20 15:34:54] (Debug:widget.cpp:200) [ "15_34_54_391" ]  pictrue begin
+[2022-07-20 15:34:54] (Debug:widget.cpp:204) [ "15_34_54_391" ]  Carmera Info Login "192.168.1.135"   Port: 8000   Channel: 35
+[2022-07-20 15:34:54] (Debug:widget.cpp:386) [ "15_34_54_391" ]  NET_DVR_Init
+[2022-07-20 15:34:54] (Debug:widget.cpp:400) [ "15_34_54_444" ]  NET_DVR_Login end: UserID: 4
+[2022-07-20 15:34:56] (Debug:widget.cpp:419) PICCode: 29
+[2022-07-20 15:34:56] (Debug:widget.cpp:208) Piture fail:
+[2022-07-20 15:34:56] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:56] (Debug:widget.cpp:190) [ "15_34_56_860" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:56] (Debug:widget.cpp:200) [ "15_34_56_860" ]  pictrue begin
+[2022-07-20 15:34:56] (Debug:widget.cpp:235) [ "15_34_56_860" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:34:57] (Debug:widget.cpp:252) [ "15_34_57_150" ]  pictrue End:
+[2022-07-20 15:34:57] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111432
+[2022-07-20 15:34:57] (Debug:widget.cpp:264) [ "15_34_57_191" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:57] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:57] (Debug:widget.cpp:267) [ "15_34_57_191" ]: Del PicTure Success
+[2022-07-20 15:34:57] (Debug:widget.cpp:178) [ "15_34_57_191" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:34:57] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:57] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:57] (Debug:widget.cpp:190) [ "15_34_57_191" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:57] (Debug:widget.cpp:200) [ "15_34_57_191" ]  pictrue begin
+[2022-07-20 15:34:57] (Debug:widget.cpp:235) [ "15_34_57_191" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:34:57] (Debug:widget.cpp:252) [ "15_34_57_494" ]  pictrue End:
+[2022-07-20 15:34:57] (Debug:widget.cpp:256) PitureBase64 Size(byte): 128004
+[2022-07-20 15:34:57] (Debug:widget.cpp:264) [ "15_34_57_534" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:57] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:57] (Debug:widget.cpp:267) [ "15_34_57_534" ]: Del PicTure Success
+[2022-07-20 15:34:57] (Debug:widget.cpp:190) [ "15_34_57_534" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:57] (Debug:widget.cpp:200) [ "15_34_57_534" ]  pictrue begin
+[2022-07-20 15:34:57] (Debug:widget.cpp:235) [ "15_34_57_534" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:34:57] (Debug:widget.cpp:252) [ "15_34_57_821" ]  pictrue End:
+[2022-07-20 15:34:57] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111276
+[2022-07-20 15:34:57] (Debug:widget.cpp:264) [ "15_34_57_861" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:57] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:57] (Debug:widget.cpp:267) [ "15_34_57_861" ]: Del PicTure Success
+[2022-07-20 15:34:57] (Debug:widget.cpp:178) [ "15_34_57_861" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:34:57] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:57] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:57] (Debug:widget.cpp:190) [ "15_34_57_861" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:57] (Debug:widget.cpp:200) [ "15_34_57_861" ]  pictrue begin
+[2022-07-20 15:34:57] (Debug:widget.cpp:235) [ "15_34_57_861" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:34:58] (Debug:widget.cpp:252) [ "15_34_58_143" ]  pictrue End:
+[2022-07-20 15:34:58] (Debug:widget.cpp:256) PitureBase64 Size(byte): 127896
+[2022-07-20 15:34:58] (Debug:widget.cpp:264) [ "15_34_58_186" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:58] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:58] (Debug:widget.cpp:267) [ "15_34_58_186" ]: Del PicTure Success
+[2022-07-20 15:34:58] (Debug:widget.cpp:190) [ "15_34_58_187" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:58] (Debug:widget.cpp:200) [ "15_34_58_187" ]  pictrue begin
+[2022-07-20 15:34:58] (Debug:widget.cpp:235) [ "15_34_58_187" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:34:58] (Debug:widget.cpp:252) [ "15_34_58_469" ]  pictrue End:
+[2022-07-20 15:34:58] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111296
+[2022-07-20 15:34:58] (Debug:widget.cpp:264) [ "15_34_58_511" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:58] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:58] (Debug:widget.cpp:267) [ "15_34_58_511" ]: Del PicTure Success
+[2022-07-20 15:34:58] (Debug:widget.cpp:178) [ "15_34_58_513" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:34:58] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:58] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:58] (Debug:widget.cpp:190) [ "15_34_58_513" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:58] (Debug:widget.cpp:200) [ "15_34_58_513" ]  pictrue begin
+[2022-07-20 15:34:58] (Debug:widget.cpp:235) [ "15_34_58_513" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:34:58] (Debug:widget.cpp:252) [ "15_34_58_813" ]  pictrue End:
+[2022-07-20 15:34:58] (Debug:widget.cpp:256) PitureBase64 Size(byte): 128188
+[2022-07-20 15:34:58] (Debug:widget.cpp:264) [ "15_34_58_854" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:58] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:58] (Debug:widget.cpp:267) [ "15_34_58_854" ]: Del PicTure Success
+[2022-07-20 15:34:58] (Debug:widget.cpp:190) [ "15_34_58_855" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:58] (Debug:widget.cpp:200) [ "15_34_58_855" ]  pictrue begin
+[2022-07-20 15:34:58] (Debug:widget.cpp:235) [ "15_34_58_855" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:34:59] (Debug:widget.cpp:252) [ "15_34_59_140" ]  pictrue End:
+[2022-07-20 15:34:59] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111396
+[2022-07-20 15:34:59] (Debug:widget.cpp:264) [ "15_34_59_184" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:59] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:59] (Debug:widget.cpp:267) [ "15_34_59_184" ]: Del PicTure Success
+[2022-07-20 15:34:59] (Debug:widget.cpp:178) [ "15_34_59_190" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:34:59] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:59] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:59] (Debug:widget.cpp:190) [ "15_34_59_192" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:59] (Debug:widget.cpp:200) [ "15_34_59_193" ]  pictrue begin
+[2022-07-20 15:34:59] (Debug:widget.cpp:235) [ "15_34_59_193" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:34:59] (Debug:widget.cpp:252) [ "15_34_59_493" ]  pictrue End:
+[2022-07-20 15:34:59] (Debug:widget.cpp:256) PitureBase64 Size(byte): 128000
+[2022-07-20 15:34:59] (Debug:widget.cpp:264) [ "15_34_59_532" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:59] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:59] (Debug:widget.cpp:267) [ "15_34_59_532" ]: Del PicTure Success
+[2022-07-20 15:34:59] (Debug:widget.cpp:190) [ "15_34_59_533" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:59] (Debug:widget.cpp:200) [ "15_34_59_533" ]  pictrue begin
+[2022-07-20 15:34:59] (Debug:widget.cpp:235) [ "15_34_59_533" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:34:59] (Debug:widget.cpp:252) [ "15_34_59_825" ]  pictrue End:
+[2022-07-20 15:34:59] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111384
+[2022-07-20 15:34:59] (Debug:widget.cpp:264) [ "15_34_59_861" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:34:59] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:34:59] (Debug:widget.cpp:267) [ "15_34_59_861" ]: Del PicTure Success
+[2022-07-20 15:34:59] (Debug:widget.cpp:178) [ "15_34_59_862" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:34:59] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:59] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:34:59] (Debug:widget.cpp:190) [ "15_34_59_866" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:34:59] (Debug:widget.cpp:200) [ "15_34_59_868" ]  pictrue begin
+[2022-07-20 15:34:59] (Debug:widget.cpp:235) [ "15_34_59_868" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:35:00] (Debug:widget.cpp:252) [ "15_35_00_519" ]  pictrue End:
+[2022-07-20 15:35:00] (Debug:widget.cpp:256) PitureBase64 Size(byte): 128064
+[2022-07-20 15:35:00] (Debug:widget.cpp:264) [ "15_35_00_559" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:35:00] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:35:00] (Debug:widget.cpp:267) [ "15_35_00_559" ]: Del PicTure Success
+[2022-07-20 15:35:00] (Debug:widget.cpp:190) [ "15_35_00_559" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:35:00] (Debug:widget.cpp:200) [ "15_35_00_559" ]  pictrue begin
+[2022-07-20 15:35:00] (Debug:widget.cpp:235) [ "15_35_00_559" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:35:00] (Debug:widget.cpp:252) [ "15_35_00_873" ]  pictrue End:
+[2022-07-20 15:35:00] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111316
+[2022-07-20 15:35:00] (Debug:widget.cpp:264) [ "15_35_00_919" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:35:00] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:35:00] (Debug:widget.cpp:267) [ "15_35_00_919" ]: Del PicTure Success
+[2022-07-20 15:35:00] (Debug:widget.cpp:178) [ "15_35_00_920" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:35:00] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:35:00] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:35:00] (Debug:widget.cpp:190) [ "15_35_00_920" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:35:00] (Debug:widget.cpp:200) [ "15_35_00_920" ]  pictrue begin
+[2022-07-20 15:35:00] (Debug:widget.cpp:235) [ "15_35_00_920" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:35:01] (Debug:widget.cpp:252) [ "15_35_01_214" ]  pictrue End:
+[2022-07-20 15:35:01] (Debug:widget.cpp:256) PitureBase64 Size(byte): 127704
+[2022-07-20 15:35:01] (Debug:widget.cpp:264) [ "15_35_01_258" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:35:01] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:35:01] (Debug:widget.cpp:267) [ "15_35_01_258" ]: Del PicTure Success
+[2022-07-20 15:35:01] (Debug:widget.cpp:190) [ "15_35_01_258" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:35:01] (Debug:widget.cpp:200) [ "15_35_01_258" ]  pictrue begin
+[2022-07-20 15:35:01] (Debug:widget.cpp:235) [ "15_35_01_258" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
+[2022-07-20 15:35:01] (Debug:widget.cpp:252) [ "15_35_01_540" ]  pictrue End:
+[2022-07-20 15:35:01] (Debug:widget.cpp:256) PitureBase64 Size(byte): 111288
+[2022-07-20 15:35:01] (Debug:widget.cpp:264) [ "15_35_01_581" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:35:01] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:35:01] (Debug:widget.cpp:267) [ "15_35_01_581" ]: Del PicTure Success
+[2022-07-20 15:35:01] (Debug:widget.cpp:178) [ "15_35_01_581" ]  Rec: "[{"cameraIp": "192.168.1.241", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}, {"cameraIp": "192.168.1.242", "cameraPort": "8000", "cameraChannel": "1", "userName": "admin", "passWord": "wd19216811"}]"
+[2022-07-20 15:35:01] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:35:01] (Debug:widget.cpp:353) cameraChannel :  "1"
+[2022-07-20 15:35:01] (Debug:widget.cpp:190) [ "15_35_01_581" ]  Mess IP: "192.168.1.241"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:35:01] (Debug:widget.cpp:200) [ "15_35_01_582" ]  pictrue begin
+[2022-07-20 15:35:01] (Debug:widget.cpp:235) [ "15_35_01_582" ]  Carmera already Login IP: "192.168.1.241"   Port: 8000   Channel: 1
+[2022-07-20 15:35:01] (Debug:widget.cpp:252) [ "15_35_01_853" ]  pictrue End:
+[2022-07-20 15:35:01] (Debug:widget.cpp:256) PitureBase64 Size(byte): 127712
+[2022-07-20 15:35:01] (Debug:widget.cpp:264) [ "15_35_01_899" ]: @@@@@@@@@@ Publish begin @@@@@@@@@@
+[2022-07-20 15:35:01] (Debug:widget.cpp:138) @@@@@@@@@@ Publish fail @@@@@@@@@@
+[2022-07-20 15:35:01] (Debug:widget.cpp:267) [ "15_35_01_899" ]: Del PicTure Success
+[2022-07-20 15:35:01] (Debug:widget.cpp:190) [ "15_35_01_901" ]  Mess IP: "192.168.1.242"   Port: 8000   Name: "admin"   PWD: "wd19216811"   Channel: 1
+[2022-07-20 15:35:01] (Debug:widget.cpp:200) [ "15_35_01_901" ]  pictrue begin
+[2022-07-20 15:35:01] (Debug:widget.cpp:235) [ "15_35_01_901" ]  Carmera already Login IP: "192.168.1.242"   Port: 8000   Channel: 1
